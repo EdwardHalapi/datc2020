@@ -1,4 +1,4 @@
-Google Workspace sau GSuite este o colecție instrumente de productivitate și colaborare, 
+Google Workspace sau GSuite este o colecție de instrumente de productivitate și colaborare, 
 software și produse dezvoltate și comercializate de Google. Unele dintre cele mai cunoscute sunt Google meet
-Gmail, OneDrive, exista servicii nu asa cunoscute ca acestea, cum ar fi GCP (Google Cloud Platform) care vine cu
-multe servicii de asemenea.
+Gmail, OneDrive, care ne ajuta in comunicarea cu alte persoane fara a ne preocupa care este procesul din spate, ne ajuta
+in a ne stoca datele de care avem nevoie fara a depinde de memorie locala, fizica pentru stocare.
